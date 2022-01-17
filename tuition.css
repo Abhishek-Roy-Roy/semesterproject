@@ -1,0 +1,50 @@
+.nav{
+    background-color:lavenderblush;
+}
+
+.pic{
+    height: 300px;
+    width: 300px;
+}
+.yes{
+    display: flexbox;
+}
+
+.imgg{
+    width: 200px;
+    
+}
+.imggg{
+    width: 353px;
+    height: 240px;
+}
+
+
+.picc{
+    height: 240px;
+    width: 353;
+}
+
+}
+
+.img{
+    height: 70px;
+    width: 70px;}
+
+    .imgggg{
+        height: 240px;
+        width: 240px;
+    }
+
+
+    .button{
+        padding: 7px;
+        background-color: hotpink;
+        color: black;
+        border-radius: 8px;
+        border: rebeccapurple solid firebrick;
+
+    }
+    .last{
+        background-color: lavenderblush;
+    }

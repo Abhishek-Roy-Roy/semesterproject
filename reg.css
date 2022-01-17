@@ -1,0 +1,50 @@
+
+.but{
+    background-color: rgb(16, 252, 228);
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 40px;
+    right: -45px;
+    border-radius: 20px;
+    border: darkslategray solid dimgrey ;
+    
+    
+}
+
+.in{
+
+    background-color:rgb(167, 83, 247);
+    height: 660px;
+    width: 1350px;
+}
+
+.log{
+     backdrop-filter: blue;
+     background-color:rgb(53, 3, 99);
+     width: 490px;
+     height: 600px;
+     position: relative;
+     left: 420px;
+     top: 10px;
+}
+.reg{
+    color: whitesmoke;
+}
+.first{
+    position: relative;
+    left: 95px;
+    top: 30px;
+    height: 35px;
+    width: 300px;
+}
+
+.button{
+    position: relative;
+    left: 330px;
+    top: 49px;
+    height: 35px;
+    width: 80px;
+    background-color: blueviolet;
+    
+   

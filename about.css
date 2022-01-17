@@ -1,0 +1,23 @@
+.one{
+    color: blue;
+    text-align: center;
+}
+.two{
+    text-align: center;
+    color: blueviolet;
+    background-color: darkslategray;
+
+}
+body{
+    color: rgb(243, 187, 113);
+}
+.three{
+    color: cyan;
+    text-align: center;
+    
+}
+.four{
+    color: darkcyan;
+    text-align: center;
+    background-color: darkkhaki;
+}

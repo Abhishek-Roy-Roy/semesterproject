@@ -1,0 +1,19 @@
+.firs{
+    width: 400px;
+    color: blue;
+    font-weight: 50px;
+   position: relative;
+   left: 480px;
+}
+.main{
+
+    text-align: center;
+    background-color: cornsilk;
+}
+.but{
+    padding: 7px 15px;
+    background-color: red;
+    position: relative;
+    left: 10px;
+    
+}
